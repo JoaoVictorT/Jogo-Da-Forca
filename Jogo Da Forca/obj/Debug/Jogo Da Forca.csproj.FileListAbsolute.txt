@@ -1,0 +1,94 @@
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Portugues.resources
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Portugues.resources
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\unisanta\Desktop\Jogo Da Forca\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Portugues.resources
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\unisanta\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Portugues.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Historia.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Geografia.resources
+C:\Users\Pichau\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Ciencias.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csprojResolveAssemblyReference.cache
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Ciencias.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Geografia.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Historia.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Portugues.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\thors\Desktop\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.Cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe.config
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\bin\Debug\Jogo Da Forca.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Ciencias.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Escolha_De_Materia.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Form1.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Geografia.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Historia.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Portugues.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo_Da_Forca.TelaDeCadastro.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\Jogo Da Forcas\Jogo Da Forca\obj\Debug\Jogo Da Forca.pdb
